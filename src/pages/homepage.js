@@ -64,8 +64,8 @@ export const Homepage = () => {
             alt="trust-pad-logo"
           />
           <div className="logo-words">
-            <h1>TRUSTPAD-DEFI</h1>
-            <p>The #1 Multi-Chain Launchpad.</p>
+            <h1>Ascention One</h1>
+            <p>The #1 Tiered Level Launchpad</p>
           </div>
         </div>
 
@@ -175,10 +175,7 @@ export const Homepage = () => {
 
       <section className="footer">
         <p>
-          Participants/Citizens from the following countries are strictly
-          excluded/not allowed to participate in the IDOs: Bolivia, Cambodia,
-          Iran, Iraq, Libya, Nepal, Zimbabwe, Liberia, Myanmar, North Korea. ©
-          Copyright LaunchPad 2022. All rights reserved.
+         AscentionOne 2023. All Rights Reserved.
         </p>
       </section>
     </section>
